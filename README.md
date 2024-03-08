@@ -10,3 +10,7 @@ Leveraging datasets sourced from Kaggle, this project provides insights into var
 - Visualization: Create visually appealing and informative graphs, charts, and maps to represent different aspects of the Olympics.
 - Analytics: Perform statistical analysis to uncover patterns, trends, and correlations within the Olympics data.
 - Insights: Generate insights into athlete performances, medal distributions, participating countries, historical trends, and any other significant findings.
+
+## Key Features
+- Interactive Dashboards: Build Interactive dashboards to allow users to explore the Olympic data dynamically
+- Time Series Analysis: Analyze trends and patterns over time, such as the evolution of Olympic sports, changes in medal counts, etc.
