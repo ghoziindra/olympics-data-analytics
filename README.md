@@ -14,4 +14,5 @@ Leveraging datasets sourced from Kaggle, this project provides insights into var
 ## Key Features
 - Interactive Dashboards: Build Interactive dashboards to allow users to explore the Olympic data dynamically
 - Time Series Analysis: Analyze trends and patterns over time, such as the evolution of Olympic sports, changes in medal counts, etc.
-- Demographic Insights: Investigate demographic factors such as age, gender, and nationality.
+- Demographic Insights: Investigate demographic factors such as age, gender, and nationality of athletes and their impact on performance.
+- 
